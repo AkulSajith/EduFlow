@@ -57,7 +57,7 @@ eduflow-app/
 
 ## Frontend Demo
 
-<img src="Screen Recording 2026-05-23 234639.gif" width="850"/>
+<img  alt="Screen Recording 2026-05-23 234639" src="https://github.com/user-attachments/assets/2045ba7c-a36a-41c4-af33-f0fa9f2a6ed4" width="850"/>
 
 <hr>
 
