@@ -14,6 +14,7 @@ The project provides separate dashboards and workflows for administrators, teach
 - Progress monitoring interface
 - Interactive frontend navigation
 - Structured component-based architecture
+- Experimental ML-based approval prediction
 
 <hr>
 
