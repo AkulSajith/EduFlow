@@ -65,19 +65,19 @@ eduflow-app/
 
 ### Homepage
 
-<img src="YOUR_IMAGE_LINK" width="700"/>
+<img  src="https://github.com/user-attachments/assets/57a6d007-5520-4c8f-a983-de599db91e4c" width="700"/>
 
 ### Login Page
 
-<img src="YOUR_IMAGE_LINK" width="700"/>
-
-### Admin Dashboard
-
-<img src="YOUR_IMAGE_LINK" width="700"/>
+<img src="https://github.com/user-attachments/assets/b88f5977-b02b-4cbe-b34c-fb5262c31c5b"  width="700"/>
 
 ### Teacher Dashboard
 
-<img src="YOUR_IMAGE_LINK" width="700"/>
+<img  src="https://github.com/user-attachments/assets/3aa00801-08fb-4c8c-bd12-4eeb856ce318" width="700"/>
+
+### Admin Dashboard
+
+<img  src="https://github.com/user-attachments/assets/bb4f4298-cd2e-4f00-8c41-b3b63a42e515" width="700"/>
 
 <hr>
 
@@ -96,7 +96,7 @@ eduflow-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/eduflow-app.git
+git clone https://github.com/AkulSajith/eduflow-app.git
 ```
 
 <hr>
